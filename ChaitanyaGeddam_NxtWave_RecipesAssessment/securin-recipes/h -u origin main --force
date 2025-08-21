@@ -1,0 +1,5 @@
+* [33mfd41d9e[m[33m ([m[1;31morigin/main[m[33m)[m Add files via upload
+* [33me48049e[m Recipes
+* [33m1dced94[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m chore: add .gitignore and untrack target directory
+* [33m18dce31[m render.yaml: use rootDir '.' for Render build
+* [33m5e94a4c[m Prepare for Render: dynamic PORT, schema init, blueprint
